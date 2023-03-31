@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#dataset
+Dataset/cleaned_used_cars_v3.csv
